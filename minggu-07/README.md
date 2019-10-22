@@ -25,7 +25,8 @@ NIM  : 175410046
 1. Anda dapat membuat aplikasi Next.js baru dengan perintah berikut menggunakan npm atau Yarn:
 
         npm init next-app my-next-project
-        ![alt text](images/5.PNG)
+        
+    ![alt text](images/5.PNG)
 
 2. Menuju Folder my-next-project
 
