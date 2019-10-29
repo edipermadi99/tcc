@@ -52,4 +52,4 @@ NIM  : 175410046
 
 10. Membuka output melalui browser  
 
-	 ![alt text](img/1.PNG)
+	 ![alt text](img/1.png)
