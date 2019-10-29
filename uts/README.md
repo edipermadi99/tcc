@@ -1,9 +1,9 @@
 
-# TCC
+# TUGAS UTS TCC
 Nama : Edi Permadi  
 NIM  : 175410046 
 
-
+***
 
 1. Mengecek Docker yaitu dengan perintah 
 
@@ -50,5 +50,6 @@ NIM  : 175410046
 
 		$ docker ps
 
-10. Membuka output melalui browser
-	 ![alt text](1.PNG)
+10. Membuka output melalui browser  
+
+	 ![alt text](img/1.PNG)
